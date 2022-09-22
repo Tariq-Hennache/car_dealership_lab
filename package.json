@@ -1,0 +1,19 @@
+{
+  "name": "lab_car_dealership",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tariq-Hennache/car_dealership_lab.git"
+  },
+  "author": "\"Tariq Hennache\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tariq-Hennache/car_dealership_lab/issues"
+  },
+  "homepage": "https://github.com/Tariq-Hennache/car_dealership_lab#readme"
+}
