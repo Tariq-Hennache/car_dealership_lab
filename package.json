@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tariq-Hennache/car_dealership_lab/issues"
   },
-  "homepage": "https://github.com/Tariq-Hennache/car_dealership_lab#readme"
+  "homepage": "https://github.com/Tariq-Hennache/car_dealership_lab#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
 }
